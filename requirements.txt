@@ -40,10 +40,7 @@ pyasn1
 pyasn1-modules           
 pycodestyle              
 pymongo                  
-pyparsing                
-PyQt5                    
-PyQt5-Qt5                
-PyQt5-sip                
+pyparsing                               
 python-dotenv            
 requests                 
 rsa                      

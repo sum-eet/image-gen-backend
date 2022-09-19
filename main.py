@@ -16,14 +16,8 @@ from datetime import date
 from PIL import Image, ImageDraw, ImageFont
 from image_utils import ImageText
 
-import urllib.request
-from PyQt5.QtGui import QPixmap, QPainter
-from PyQt5.QtCore import Qt, QPoint, QRect
-from PyQt5.QtWidgets import QApplication, QWidget, QHBoxLayout, QVBoxLayout, QLabel
-import sys
 from image_utils import ImageText
 from PIL import Image
-import urllib
 from pymongo import MongoClient
 from flask_pymongo import pymongo
 from urllib.request import urlopen
