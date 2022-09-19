@@ -262,7 +262,7 @@ def result():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=int(os.getenv('PORT', 5000)))
+    app.run(debug=True, port=int(os.getenv('PORT', 33507)))
 
 
 # # from data import question_data1
